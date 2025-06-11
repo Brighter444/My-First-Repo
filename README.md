@@ -1,2 +1,2 @@
 # My-First-Repo
-I am Brighter cyuzuzo Izere. A high school graduate dedicate about medical sciences.
+This is my first repository created as part of a GitHub learning task
